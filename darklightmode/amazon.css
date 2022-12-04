@@ -1,0 +1,164 @@
+/*Header Css*/
+*{padding:0;
+    width:100%;
+margin:0;
+
+}
+.amazon-nav{
+   
+    height: 60px;
+    background-color:blue;
+    top: 0;
+    justify-content:center;
+ align-items: center;
+
+}
+.logoicon{
+    margin-left: 10px;
+    align-items: center;}
+.logo{
+    
+    display: flex;
+    align-items: center;
+}
+
+logo img{
+    margin-left: 10px;
+    width: 150px;
+    }
+    
+.btn img{
+    width: 22px;
+}
+
+#profile img{
+    width: 50px;
+}
+.search-button-width{width: 30px;}
+
+#cart img{
+    width: 40px;   
+   justify-content: center;
+     margin-right: 400px ;
+}
+div .search{background-color: white;}
+.search{
+    display: inline-flex;
+    align-items: center;
+    background-color: wheat;
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+   
+}
+
+.search input{
+    height: auto;
+    border-radius: 5px;
+    font-size: 16px;
+    width: auto;
+   padding: 6px;
+    border: 0;
+    outline: none;
+background-color: white;
+}
+.search-button-width{
+    display: inline-flex;
+    height: auto;
+    width: auto;
+    background-color: white;}
+
+.search div  > .btn{
+    background-color: white;
+    border: 0;
+    cursor: pointer;
+    
+    padding: 6px;
+    height: 35px;
+    width: auto;
+
+}
+
+.iconsmobile{
+    display:inline-flex;
+    margin-left: auto;
+}
+#cart{margin-inline-start: 20px;}
+
+.logoicon{
+display: flex;
+flex-direction: row;
+
+}
+#social{
+    position: absolute;
+right: 0px;
+   
+    margin-top: 10px;
+   margin-bottom: 10px;
+}
+
+
+#social1{
+    position: relative;
+  
+    margin-top: 10px;
+   margin-bottom: 10px;
+}
+#login{
+
+   height :auto; 
+width: auto;
+    font-size: 15px;
+padding: 10px 15px;
+background: white;
+border: 1px solid grey;
+border-left: none;
+cursor: pointer;}
+  
+#register{
+ 
+    font-size: 15px;
+    height: auto;
+width: auto;
+padding: 10px 15px;
+background: white;
+border: 1px solid grey;
+border-left: none;
+cursor: pointer;
+}
+
+.container-row{
+    display:inline;
+ 
+}
+.col{
+    display: inline;
+
+max-width:40%;
+margin: auto;
+padding: 5px;}
+
+
+body {
+  
+    background-color: white;
+    color: black;
+    font-size: 25px;
+  }
+  
+  .dark-mode {
+    background-color: blueviolet;
+    color: white;
+      }
+
+      
+.footer
+{background-color: blue;
+color: white;
+padding: 25px;
+font-family: 'Courier New', Courier, monospace;
+align-items: center;
+}
+
+p{text-align: center;}
